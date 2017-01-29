@@ -1,2 +1,4 @@
 # terraform-provider-packer
-A Terraform provider plugin for Packer 
+A Packer provider for Terraform
+
+## IMPORTANT: This is still WIP!
